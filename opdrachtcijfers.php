@@ -8,7 +8,7 @@
             <th>id</th>
             <th>leerling</th>
             <th>cijfer</th>
-        </tr>
+        </tr> <map name=""></map>
         <?php
         $conn = mysqli_connect("localhost", "root", "", "cijfersysteem");
         if (!$conn) {
